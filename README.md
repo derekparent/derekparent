@@ -5,12 +5,12 @@
 ### Production Applications
 Real tools used by real crews on working vessels:
 
-- **[maintenance-tracker](https://github.com/Dparent97/maintenance-tracker)** - Maintenance tracking system deployed on USNS vessels. Used daily by engineering crews.
-- **[orb-tool](https://github.com/Dparent97/orb-tool)** - Oil Record Book compliance tool. Automates fuel tracking and regulatory reporting.
+- **[maintenance-tracker](https://github.com/derekparent/maintenance-tracker)** - Maintenance tracking system deployed on USNS vessels. Used daily by engineering crews.
+- **[orb-tool](https://github.com/derekparent/orb-tool)** - Oil Record Book compliance tool. Automates fuel tracking and regulatory reporting.
 
 ### Current Projects
-- **[maw-mcp](https://github.com/Dparent97/maw-mcp)** - MCP server for coordinating parallel AI agents across development tools
-- **[ar-id](https://github.com/Dparent97/ar-id)** - AR system for equipment identification using computer vision
+- **[maw-mcp](https://github.com/derekparent/maw-mcp)** - MCP server for coordinating parallel AI agents across development tools
+- **[ar-id](https://github.com/derekparent/ar-id)** - AR system for equipment identification using computer vision
 
 ### Tech
 Python · Flask · Swift/SwiftUI · Google Cloud · Railway · MCP Protocol

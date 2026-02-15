@@ -5,7 +5,7 @@
 ### Production Applications
 Real tools used by real crews on working vessels:
 
-- **[maintenance-tracker](https://github.com/derekparent/maintenance-tracker)** - Maintenance tracking system deployed on USNS vessels. Used daily by engineering crews.
+- **[maintenance-tracker](https://github.com/derekparent/maintenance-tracker)** - Maintenance tracking system deployed on vessels. Used by engineering crews.
 - **[orb-tool](https://github.com/derekparent/orb-tool)** - Oil Record Book compliance tool. Automates fuel tracking and regulatory reporting.
 
 ### Current Projects
